@@ -286,13 +286,16 @@ animation: up 1s linear  infinite ;
 .eworkList ul li{font-size:12px;color:#000;padding:0 20px;margin:6px 0;}
 
 
+/* 第六个页面，我的demo1 */
+.swiper-wrapper >div:nth-of-type(7){background:url(../img/demo1.png) no-repeat left top;background-size:cover;}
 
 
+/* 第六个页面，我的demo2 */
+.swiper-wrapper >div:nth-of-type(8){background:url(../img/demo2.jpg) no-repeat left top;background-size:cover;}
 
 
-
-
-
+/* 第六个页面，我的demo3 */
+.swiper-wrapper >div:nth-of-type(9){background:url(../img/demo3.png) no-repeat left top;background-size:cover;}
 
 
 
