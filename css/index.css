@@ -302,20 +302,8 @@ animation: up 1s linear  infinite ;
 
 .swiper-slide .myDemo{margin: 60px auto 0;width:3rem;background:rgba(0,0,0,0.5);border-radius:10px;-webkit-border-radius:10px;}
 
-.swiper-slide .myDemo .demoContent{color:#fff;}
-
-
-
-
-
-
-
-
-
-
-
-
-
+.swiper-slide .myDemo .demoContent h2{color:#fff;}
+.swiper-slide .myDemo .demoContent h2 span{color:#fff;}
 
 /* 第十个页面++ */
 
