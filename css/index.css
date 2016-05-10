@@ -1,6 +1,6 @@
 html, body, ul, li, ol,figure,figcaption,dl, dd, dt, p, h1, h2, h3, h4,form, i,img,span,b,strong{ margin:0; padding:0;} 
 img {display: block; border:none; } 
-address, caption,i,b{ font-style:normal; font-weight:normal; } 
+address, caption,i,b,h2{ font-style:normal; font-weight:normal; } 
 ul, ol { list-style:none; } 
 
 body,html {height:100%; width:100%;	font-family:"microsoft yahei"; background:#fff;}
@@ -297,10 +297,12 @@ animation: up 1s linear  infinite ;
 /* 第六个页面，我的demo3 */
 .swiper-wrapper >div:nth-of-type(9){background:url(../img/demo3.png) no-repeat left top;background-size:cover;}
 
+.swiper-slide .myDemo h2{ padding:0.1rem 0.2rem; width:2.6rem;font-size:20px; color:#fff;margin:0 auto 10px;}
+.swiper-slide .myDemo h2 span{font-size:14px; color:#fff;}
 
+.swiper-slide .myDemo{margin: 60px auto 0;width:3rem;background:rgba(0,0,0,0.5);border-radius:10px;-webkit-border-radius:10px;}
 
-
-
+.swiper-slide .myDemo .demoContent{color:#fff;}
 
 
 
